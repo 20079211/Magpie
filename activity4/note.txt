@@ -1,0 +1,2 @@
+Activity 4, done
+Added special instances for "I want (to)" and "I/you something you/me"
